@@ -1,0 +1,324 @@
+{
+  "sorular": {
+    "1": {
+      "soru": "Türkiye'nin başkenti neresidir?",
+      "a": "İstanbul",
+      "b": "Ankara",
+      "c": "İzmir",
+      "d": "Bursa",
+      "dogru": "b"
+    },
+    "2": {
+      "soru": "Dünya'nın en uzun nehri hangisidir?",
+      "a": "Amazon",
+      "b": "Nil",
+      "c": "Yangtze",
+      "d": "Mississippi",
+      "dogru": "b"
+    },
+    "3": {
+      "soru": "Fransa'nın başkenti neresidir?",
+      "a": "Paris",
+      "b": "Lyon",
+      "c": "Nice",
+      "d": "Marsilya",
+      "dogru": "a"
+    },
+    "4": {
+      "soru": "Ay'a ilk ayak basan astronot kimdir?",
+      "a": "Buzz Aldrin",
+      "b": "Neil Armstrong",
+      "c": "Yuri Gagarin",
+      "d": "Michael Collins",
+      "dogru": "b"
+    },
+    "5": {
+      "soru": "Mona Lisa tablosunun ressamı kimdir?",
+      "a": "Pablo Picasso",
+      "b": "Vincent van Gogh",
+      "c": "Leonardo da Vinci",
+      "d": "Claude Monet",
+      "dogru": "c"
+    },
+    "6": {
+      "soru": "İnsan vücudunda kaç tane kalp vardır?",
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4",
+      "dogru": "a"
+    },
+    "7": {
+      "soru": "Dünya'nın en büyük okyanusu hangisidir?",
+      "a": "Hint Okyanusu",
+      "b": "Atlas Okyanusu",
+      "c": "Pasifik Okyanusu",
+      "d": "Arktik Okyanusu",
+      "dogru": "c"
+    },
+    "8": {
+      "soru": "Einstein'ın ünlü denklemi nedir?",
+      "a": "E=mc^2",
+      "b": "F=ma",
+      "c": "V=IR",
+      "d": "a^2 + b^2 = c^2",
+      "dogru": "a"
+    },
+    "9": {
+      "soru": "Bir yıl kaç gündür (artık yıl hariç)?",
+      "a": "365",
+      "b": "366",
+      "c": "360",
+      "d": "364",
+      "dogru": "a"
+    },
+    "10": {
+      "soru": "Güneş sisteminde halkaları olan gezegen hangisidir?",
+      "a": "Mars",
+      "b": "Satürn",
+      "c": "Venüs",
+      "d": "Merkür",
+      "dogru": "b"
+    },
+    "11": {
+      "soru": "Türkiye'nin en yüksek dağı hangisidir?",
+      "a": "Ağrı Dağı",
+      "b": "Erciyes",
+      "c": "Kaçkar",
+      "d": "Uludağ",
+      "dogru": "a"
+    },
+    "12": {
+      "soru": "İlk yazılı anayasayı yapan ülke hangisidir?",
+      "a": "Fransa",
+      "b": "ABD",
+      "c": "İngiltere",
+      "d": "Almanya",
+      "dogru": "b"
+    },
+    "13": {
+      "soru": "İstanbul Boğazı hangi iki denizi birbirine bağlar?",
+      "a": "Karadeniz ve Marmara",
+      "b": "Ege ve Akdeniz",
+      "c": "Marmara ve Ege",
+      "d": "Karadeniz ve Ege",
+      "dogru": "a"
+    },
+    "14": {
+      "soru": "DNA'nın yapısını kim keşfetti?",
+      "a": "Newton ve Einstein",
+      "b": "Watson ve Crick",
+      "c": "Curie ve Tesla",
+      "d": "Franklin ve Pasteur",
+      "dogru": "b"
+    },
+    "15": {
+      "soru": "Kaç kıta vardır?",
+      "a": "5",
+      "b": "6",
+      "c": "7",
+      "d": "8",
+      "dogru": "c"
+    },
+    "16": {
+      "soru": "Dünya'nın uydusu nedir?",
+      "a": "Venüs",
+      "b": "Mars",
+      "c": "Güneş",
+      "d": "Ay",
+      "dogru": "d"
+    },
+    "17": {
+      "soru": "İnternetin temelleri hangi ülkede atılmıştır?",
+      "a": "Almanya",
+      "b": "ABD",
+      "c": "İngiltere",
+      "d": "Japonya",
+      "dogru": "b"
+    },
+    "18": {
+      "soru": "Hangi elementin kimyasal sembolü O'dur?",
+      "a": "Altın",
+      "b": "Oksijen",
+      "c": "Osmaniyum",
+      "d": "Kurşun",
+      "dogru": "b"
+    },
+    "19": {
+      "soru": "Bir kilogram kaç gramdır?",
+      "a": "10",
+      "b": "100",
+      "c": "1000",
+      "d": "10000",
+      "dogru": "c"
+    },
+    "20": {
+      "soru": "Atatürk'ün doğum yılı nedir?",
+      "a": "1881",
+      "b": "1882",
+      "c": "1883",
+      "d": "1884",
+      "dogru": "a"
+    },
+    "21": {
+      "soru": "Türkiye kaç coğrafi bölgeye ayrılır?",
+      "a": "5",
+      "b": "6",
+      "c": "7",
+      "d": "8",
+      "dogru": "c"
+    },
+    "22": {
+      "soru": "En küçük asal sayı hangisidir?",
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "3",
+      "dogru": "c"
+    },
+    "23": {
+      "soru": "Bir saatte kaç dakika vardır?",
+      "a": "60",
+      "b": "100",
+      "c": "30",
+      "d": "90",
+      "dogru": "a"
+    },
+    "24": {
+      "soru": "Antarktika'da yerleşik bir nüfus var mı?",
+      "a": "Evet",
+      "b": "Hayır",
+      "c": "Sadece yazın",
+      "d": "Sadece kışın",
+      "dogru": "b"
+    },
+    "25": {
+      "soru": "Hangi gezegen Güneş'e en yakındır?",
+      "a": "Venüs",
+      "b": "Dünya",
+      "c": "Merkür",
+      "d": "Mars",
+      "dogru": "c"
+    },
+    "26": {
+      "soru": "Dünyanın en büyük çölü hangisidir?",
+      "a": "Sahra",
+      "b": "Gobi",
+      "c": "Antarktika",
+      "d": "Arabistan",
+      "dogru": "c"
+    },
+    "27": {
+      "soru": "İlk Nobel Barış Ödülü'nü kim almıştır?",
+      "a": "Theodore Roosevelt",
+      "b": "Jean Henri Dunant",
+      "c": "Albert Einstein",
+      "d": "Winston Churchill",
+      "dogru": "b"
+    },
+    "28": {
+      "soru": "Çin Seddi hangi ülkede yer alır?",
+      "a": "Japonya",
+      "b": "Hindistan",
+      "c": "Çin",
+      "d": "Kore",
+      "dogru": "c"
+    },
+    "29": {
+      "soru": "Leonardo da Vinci hangi alanda ünlüdür?",
+      "a": "Müzik",
+      "b": "Resim",
+      "c": "Edebiyat",
+      "d": "Tiyatro",
+      "dogru": "b"
+    },
+    "30": {
+      "soru": "Türk bayrağındaki ay ve yıldız neyi temsil eder?",
+      "a": "Gece ve yıldızları",
+      "b": "Güneş ve ışığı",
+      "c": "İslam ve bağımsızlık",
+      "d": "Zafer ve özgürlük",
+      "dogru": "c"
+    },
+    "31": {
+      "soru": "Türk parasının birimi nedir?",
+      "a": "Dinar",
+      "b": "Euro",
+      "c": "TL",
+      "d": "Frank",
+      "dogru": "c"
+    },
+    "32": {
+      "soru": "Mekke hangi ülkededir?",
+      "a": "Ürdün",
+      "b": "Suudi Arabistan",
+      "c": "Irak",
+      "d": "İran",
+      "dogru": "b"
+    },
+    "33": {
+      "soru": "Pisa Kulesi hangi ülkededir?",
+      "a": "İtalya",
+      "b": "Fransa",
+      "c": "İspanya",
+      "d": "Yunanistan",
+      "dogru": "a"
+    },
+    "34": {
+      "soru": "İlk insan hangi kıtada ortaya çıkmıştır?",
+      "a": "Asya",
+      "b": "Avrupa",
+      "c": "Afrika",
+      "d": "Amerika",
+      "dogru": "c"
+    },
+    "35": {
+      "soru": "Hangi hayvan ulusal posta simgesidir?",
+      "a": "Aslan",
+      "b": "Ayı",
+      "c": "Köpek",
+      "d": "Güvercin",
+      "dogru": "d"
+    },
+    "36": {
+      "soru": "Roma rakamlarında L harfi kaçtır?",
+      "a": "50",
+      "b": "100",
+      "c": "500",
+      "d": "1000",
+      "dogru": "a"
+    },
+    "37": {
+      "soru": "Matematikte π sayısı yaklaşık olarak kaçtır?",
+      "a": "1.41",
+      "b": "2.71",
+      "c": "3.14",
+      "d": "3.33",
+      "dogru": "c"
+    },
+    "38": {
+      "soru": "Bir gün kaç saattir?",
+      "a": "12",
+      "b": "24",
+      "c": "36",
+      "d": "48",
+      "dogru": "b"
+    },
+    "39": {
+      "soru": "Hangi gezegen en sıcak gezegendir?",
+      "a": "Merkür",
+      "b": "Venüs",
+      "c": "Mars",
+      "d": "Jüpiter",
+      "dogru": "b"
+    },
+    "40": {
+      "soru": "Hangi ülke samba dansıyla bilinir?",
+      "a": "Arjantin",
+      "b": "Brezilya",
+      "c": "Meksika",
+      "d": "İspanya",
+      "dogru": "b"
+    }
+  }
+}
